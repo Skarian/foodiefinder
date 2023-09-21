@@ -1,0 +1,14 @@
+# This is a script that takes the list of URLs from the Python recipe-scrapers package and converts them into psl's that we can validate against the URLs coming from the Edamame API so we have a list of "easy scrape" URLs
+
+[package]
+name = "get_valid_hosts"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+url = "2.4"
+psl = "2"
+regex = "1.8.4"
+colored = "2"
