@@ -23,7 +23,7 @@
     <img src="demo.gif" alt="screenshot" width="500">
 </div>
 
-### Why Built This
+### Why I Built This
 
 I am in the process of learning Rust and desktop application development. This was a fun learning experiment to get me used to syntax and community libraries.
 
