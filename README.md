@@ -52,7 +52,7 @@ To get a local copy up and running follow these simple example steps.
 1. Get a free Edamam API Key (no credit card required) at [https://www.edamam.com/](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/Skarian/foodiefinder.git
    ```
 3. Add `app_id` and `app_key` environment variables in `/src-tauri/.env`. Example below
    ```sh
@@ -95,4 +95,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Neil Skaria - [@skar_ai](https://twitter.com/skar_ai) - neil.skaria@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Skarian/foodiefinder](https://github.com/github_username/repo_name)
